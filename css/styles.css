@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+  background-image: url("../images/bkground.jpg");
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: lime;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
